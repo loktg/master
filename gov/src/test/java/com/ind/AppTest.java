@@ -1,4 +1,4 @@
-package com.icicitech;
+package com.ind;
 
 import static org.junit.Assert.assertTrue;
 
