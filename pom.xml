@@ -6,7 +6,7 @@
 
   <groupId>tag</groupId>
   <artifactId>lok</artifactId>
-  <package>war</package>
+  <packaging>war</packaging>
   <version>1.0-SNAPSHOT</version>
 
   <name>lok</name>
